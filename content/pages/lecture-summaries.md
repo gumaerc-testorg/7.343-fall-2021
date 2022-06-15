@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains descriptions of topics that were discussed during
+  each class meeting.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

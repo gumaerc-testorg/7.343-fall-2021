@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains a list of journal articles that the students were
+  expected to read before each class meeting.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -32,7 +34,7 @@ readings
 
 Introduction to Single Molecule Imaging Techniques
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L1summary)
+{{% resource_link 02a2b2c0-8a2e-bcb7-da16-b6af7f621365 "See the Lecture Summary" "#L1summary" %}}
 
 
 {{< tdclose >}}
@@ -54,7 +56,7 @@ No Readings
 
 Single Optical Traps
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L2summary)
+{{% resource_link 02a2b2c0-8a2e-bcb7-da16-b6af7f621365 "See the Lecture Summary" "#L2summary" %}}
 
 
 {{< tdclose >}}
@@ -78,7 +80,7 @@ Sheinin, M., M. Li, M. Soltani, et al., 2013. [Torque Modulates Nucleosome Stabi
 
 Magnetic Tweezers
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L3summary)
+{{% resource_link 02a2b2c0-8a2e-bcb7-da16-b6af7f621365 "See the Lecture Summary" "#L3summary" %}}
 
 
 {{< tdclose >}}
@@ -102,7 +104,7 @@ van der Heijden, T., J. van Noort, H. van Leest, et al., 2005. [Torque-Limited R
 
 Double Optical Traps
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L4summary)
+{{% resource_link 02a2b2c0-8a2e-bcb7-da16-b6af7f621365 "See the Lecture Summary" "#L4summary" %}}
 
 
 {{< tdclose >}}
@@ -126,7 +128,7 @@ Gardini, L., S.M. Heissler, C. Arbore, et al., 2018. [Dissecting Myosin-5B Mecha
 
 Total Internal Reflection Fluorescence Microscopy (TIRFM)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L5summary)
+{{% resource_link 02a2b2c0-8a2e-bcb7-da16-b6af7f621365 "See the Lecture Summary" "#L5summary" %}}
 
 
 {{< tdclose >}}
@@ -150,7 +152,7 @@ Thawani, A., M.J. Rale, N. Coudray, et al., 2020. [The Transition State and Regu
 
 Single-Molecule FRET (smFRET)
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L6summary)
+{{% resource_link 02a2b2c0-8a2e-bcb7-da16-b6af7f621365 "See the Lecture Summary" "#L6summary" %}}
 
 
 {{< tdclose >}}
@@ -174,7 +176,7 @@ Ticau, S., L.J. Friedman, N.A. Ivica, et al., 2015. [Single-Molecule Studies of 
 
 DNA Curtains and Extensions by Flow
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L7summary)
+{{% resource_link 02a2b2c0-8a2e-bcb7-da16-b6af7f621365 "See the Lecture Summary" "#L7summary" %}}
 
 
 {{< tdclose >}}
@@ -198,7 +200,7 @@ Kong, M., E.E. Cutts, D. Pan, et al., 2020. [Human Condensin I and II Drive Exte
 
 Fleezers
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L8summary)
+{{% resource_link 02a2b2c0-8a2e-bcb7-da16-b6af7f621365 "See the Lecture Summary" "#L8summary" %}}
 
 
 {{< tdclose >}}
@@ -222,7 +224,7 @@ van Mameren, J., M. Modesti, R. Kanaar, et al., 2009. [Counting RAD51 Proteins D
 
 Fleezers 2.0: Dual traps combined with confocal microscopy
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L9summary)
+{{% resource_link 02a2b2c0-8a2e-bcb7-da16-b6af7f621365 "See the Lecture Summary" "#L9summary" %}}
 
 
 {{< tdclose >}}
@@ -246,7 +248,7 @@ Wasserman, M.R., G.D. Schauer, M.E. O’Donnell, et al., 2019. [Replication Fork
 
 Optical Traps Meet Both Confocal and FRET
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L10summary)
+{{% resource_link 02a2b2c0-8a2e-bcb7-da16-b6af7f621365 "See the Lecture Summary" "#L10summary" %}}
 
 
 {{< tdclose >}}
@@ -270,7 +272,7 @@ Suksombat, S., R. Khafizov, A.G. Kozlov, et al., 2015. [Structural Dynamics of _
 
 STORM
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L11)
+{{% resource_link 02a2b2c0-8a2e-bcb7-da16-b6af7f621365 "See the Lecture Summary" "#L11" %}}
 
 
 {{< tdclose >}}
@@ -294,7 +296,7 @@ Bálint, Š., V.I. Vilanova, A.S. Alvarez, et al., 2013. [Correlative Live-Cell 
 
 PALM and STED
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L12)
+{{% resource_link 02a2b2c0-8a2e-bcb7-da16-b6af7f621365 "See the Lecture Summary" "#L12" %}}
 
 
 {{< tdclose >}}
@@ -318,7 +320,7 @@ Hein, B. K.I. Willig, and S.W. Hell, 2008. [Stimulated Emission Depletion (STED)
 
 SIM and SMLM
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L13)
+{{% resource_link 02a2b2c0-8a2e-bcb7-da16-b6af7f621365 "See the Lecture Summary" "#L13" %}}
 
 
 {{< tdclose >}}
@@ -340,7 +342,7 @@ Fiolka, R., L. Shao, E.H. Rego, et al., 2012. [Time-Lapse Two-Color 3D Imaging o
 
 Student Presentations
 
-[See the Lecture Summary]({{< baseurl >}}/pages/lecture-summaries#L14)
+{{% resource_link 02a2b2c0-8a2e-bcb7-da16-b6af7f621365 "See the Lecture Summary" "#L14" %}}
 
 
 {{< tdclose >}}

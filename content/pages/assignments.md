@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section contains descriptions of the mid-term written critique and
+  the final oral presentation that students are expected to complete in order to pass
+  this class.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
