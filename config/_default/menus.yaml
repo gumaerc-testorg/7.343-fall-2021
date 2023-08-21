@@ -3,15 +3,19 @@ leftnav:
   name: Syllabus
   url: /pages/syllabus
   weight: 10
+- identifier: 3e8fcff4-46b8-4881-b323-862d236744ee
+  name: Instructor Insights
+  url: /pages/instructor-insights
+  weight: 20
 - identifier: 02a2b2c0-8a2e-bcb7-da16-b6af7f621365
   name: Lecture Summaries
   url: /pages/lecture-summaries
-  weight: 20
+  weight: 30
 - identifier: ec2cd45f-7e88-8c82-1ab6-24dfeb1f5bc0
   name: Readings
   url: /pages/readings
-  weight: 30
+  weight: 40
 - identifier: 8fa937d6-fcb9-6305-c313-68b755af74d1
   name: Assignments
   url: /pages/assignments
-  weight: 40
+  weight: 50
